@@ -120,7 +120,7 @@ npm install
 npm run dev
 ```
 
-The client will run on `http://localhost:5173` (default Vite port)
+The client will run on `http://localhost:5175` (default Vite port)
 
 ## Docker Deployment (Alternative)
 
